@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JenniferMoesa
-- 👀 I’m interested in frontend development and software testing.
+- 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on projects for Responsive Web Design projects from freeCodeCamp.
 - 📫 How to reach me ...
