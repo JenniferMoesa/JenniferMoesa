@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JenniferMoesa
 - 👀 I’m interested in Front-end Development #100DaysOfCode.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on projects for Responsive Web Design projects from freeCodeCamp.
+- 💞️ I’m looking to collaborate on projects for Responsive Web Design from freeCodeCamp.
 - 📫 How to reach me ...
 
 <!---
