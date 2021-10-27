@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JenniferMoesa
-- 👀 I’m interested in Frontend Development #100DaysOfCode #100DaysOfCSS.
+- 👀 I’m interested in Frontend Development #100DaysOfCode #100DaysOfCSS
 - 🌱 I’m  learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects from freeCodeCamp.
 - 📫 How to reach me ...
